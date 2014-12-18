@@ -38,9 +38,12 @@ Write library code that can:
 * Generate a hash like so:
 
 ```
-{"Henry Lawson" => {"In Possum Land" => {verses: 2, lines: 8,},
-
-
+{
+  "Henry Lawson" => {
+    "In Possum Land" => {
+      verses: 2,
+      lines: 8,
+    },
     "I'll Tell You What You Wanderers" => {
       verses: 1,
       lines: 8,
